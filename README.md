@@ -1,5 +1,5 @@
 # Nebras-children-quizes-application
-Java application
-
--Note: this project has been done by a team.
+## Java Advanced Programming.
+**University Course project**
+>Note: This project has been done by a team..
 
